@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import landing from './landing.png'
 import './App.css';
 
